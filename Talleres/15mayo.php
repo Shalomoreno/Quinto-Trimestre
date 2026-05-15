@@ -142,21 +142,6 @@ for ($i = 10; $i >= 1; $i--) {
 echo "\n";
 
 
-
-/*5. Bucles WHILE
-21. Pedir números hasta que el usuario ingrese 0.
-22. Mostrar números del 1 al 20 usando while.
-23. Sumar números hasta que la suma supere 100.
-24. Validar contraseña hasta que sea correcta.
-25. Contar cuántos números son mayores a 10.
- 6. Arreglos (listas)
-26. Crear un arreglo de 5 nombres y mostrarlos.
-27. Recorrer un arreglo con foreach.
-28. Buscar un elemento dentro de un arreglo.
-29. Calcular el promedio de un arreglo de números.
-30. Ordenar un arreglo de menor a mayor. */
-
-
 echo "---------BUCLES WHILE---------\n\n";
 
 echo "--21.Pedir números hasta que el usuario ingrese 0.--\n";
